@@ -27,7 +27,7 @@
     "abitype": "^0.10.3",
     "classnames": "^2.3.2",
     "data-layer": "workspace:*",
-    "dompurify": "^2.4.3",
+    "dompurify": "^2.5.4",
     "eslint-config-gitcoin": "workspace:*",
     "ethers": "^5.6.5",
     "framer-motion": "^10.12.7",
